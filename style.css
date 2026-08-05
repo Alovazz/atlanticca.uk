@@ -1,1 +1,140 @@
+/* -------------------------
+   Atlanticca
+--------------------------*/
 
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:'Inter',sans-serif;
+    background:#ffffff;
+    color:#222;
+}
+
+/* Navigation */
+
+nav{
+
+    position:fixed;
+    width:100%;
+    padding:25px 8%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    background:rgba(15,61,86,.90);
+    backdrop-filter:blur(8px);
+
+    z-index:1000;
+}
+
+.logo{
+
+    font-family:'Cormorant Garamond',serif;
+    font-size:34px;
+    color:white;
+}
+
+nav ul{
+
+    display:flex;
+    list-style:none;
+    gap:40px;
+}
+
+nav li{
+
+    color:white;
+    cursor:pointer;
+    transition:.3s;
+}
+
+nav li:hover{
+
+    opacity:.7;
+}
+
+/* Hero */
+
+.hero{
+
+    height:100vh;
+
+    background:
+    linear-gradient(rgba(0,0,0,.35),
+    rgba(0,0,0,.35)),
+    url("images/hero.jpg");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    flex-direction:column;
+
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:30px;
+}
+
+.hero h1{
+
+    color:white;
+
+    font-family:'Cormorant Garamond',serif;
+
+    font-size:72px;
+
+    max-width:900px;
+}
+
+.hero p{
+
+    color:white;
+
+    margin-top:30px;
+
+    max-width:700px;
+
+    font-size:22px;
+
+    line-height:1.7;
+}
+
+.hero a{
+
+    margin-top:50px;
+
+    display:inline-block;
+
+    background:white;
+
+    color:#0F3D56;
+
+    text-decoration:none;
+
+    padding:18px 40px;
+
+    border-radius:50px;
+
+    transition:.3s;
+
+    font-weight:600;
+}
+
+.hero a:hover{
+
+    transform:translateY(-3px);
+
+    background:#F5F2EB;
+}
