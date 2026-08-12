@@ -12,53 +12,59 @@
 
 <div id="wrapper" class="divided">
 
-<section class="banner style1 orient-left content-align-left image-position-right fullscreen">
+    <section class="banner style1 orient-left content-align-left image-position-right fullscreen">
 
-<div class="content">
+        <div class="content">
 
-<p class="major">What we do</p>
+            <p class="major">What we do</p>
 
-Destination Representation</h1>
+            <h1>Destination Representation</h1>
 
-<p>
-    We work with regional tourism bodies and trade organisations to
-    develop and execute practical UK market strategies.
-</p>
+            <p>
+                We work with tourism bodies and destination organisations
+                to strengthen their presence in the British market and build
+                meaningful relationships with the UK travel trade.
+            </p>
 
-<p>
-    Combining local knowledge with an understanding of the British
-    travel trade, we help institutions turn destination promotion into
-    meaningful commercial relationships.
-</p>
+            <p>
+                From trade engagement and event representation to press
+                outreach and ongoing market intelligence, we provide a
+                consistent UK presence with clear objectives and practical
+                follow-through.
+            </p>
 
-<h3>What we do</h3>
+            <h3>What we do</h3>
 
-<ul>
-    <li>UK market strategy and planning</li>
-    <li>Trade show representation</li>
-    <li>UK travel trade engagement</li>
-    <li>Agent and operator outreach</li>
-    <li>Press and media outreach</li>
-    <li>Ongoing market intelligence and reporting</li>
-</ul>
+            <ul>
+                <li>UK market strategy and planning</li>
+                <li>Trade show representation</li>
+                <li>UK travel trade engagement</li>
+                <li>Agent and operator outreach</li>
+                <li>Press and media outreach</li>
+                <li>Ongoing market intelligence and reporting</li>
+            </ul>
 
-<p>
-    A consistent UK presence, with clear objectives and measurable
-    follow-through.
-</p>
+            <ul class="actions">
+                <li>
+                    <a href="index.html#services" class="button">
+                        Back to services
+                    </a>
+                </li>
 
-<ul class="actions">
-    <li><a href="index.html#services" class="button">Back to services</a></li>
-    <li><a href="index.html#contact" class="button">Get in touch</a></li>
-</ul>
+                <li>
+                    <a href="index.html#contact" class="button">
+                        Get in touch
+                    </a>
+                </li>
+            </ul>
 
-</div>
+        </div>
 
-<div class="image">
-    <img src="images/banner.jpg" alt="Atlantic destination" />
-</div>
+        <div class="image">
+            <img src="images/banner.jpg" alt="Atlantic destination" />
+        </div>
 
-</section>
+    </section>
 
 </div>
 
